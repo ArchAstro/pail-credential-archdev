@@ -4,7 +4,7 @@ A [pail](https://pail.build) credential provider: your ArchDev login (pail.archd
 
 ```sh
 pail auth install archdev
-pail auth use archdev --for gs://your-bucket --global
+pail auth use archdev --for https://pail.archdev.ai --global
 ```
 
 pail credential provider: your ArchDev login. ArchDev serves your organization's pail
