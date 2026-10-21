@@ -1,0 +1,6 @@
+{
+  "name": "archdev",
+  "protocol": "pail-credential/1",
+  "description": "your ArchDev login (pail.archdev.ai)",
+  "script": "pail-credential-archdev"
+}
